@@ -11,7 +11,7 @@
 - [ShoppeR 💻](http://dshopper.netlify.app/)
 - [Portfolio 💻](http://sanskarseth.me/)
 - [GetiT 📱](https://github.com/sanskarseth/GetiT-Client)
-- [CricPing 🧑‍💻](https://github.com/sanskarseth/CricPing)
+- [CricPing 💻](https://github.com/sanskarseth/CricPing)
 
 ## :trophy: Languages and Tools: :robot:
 
