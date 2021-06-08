@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects: @ShoppeR and @GetiT
 - 🌱 I’m currently improving my coding skills and gaming as well 😅
 - 💬 Ask me about Web Development and Competitive Coding
-- 🏛️ Pre-final year Student at IIIT Ranchi :india:
+- 🏛️ 2022 CSE Student at IIIT Ranchi :india:
 - 🥅 2021 Goals: Make real world impacts.
 
 ## :pencil2: My Works: :trophy:
