@@ -4,7 +4,7 @@
 - 🌱 I’m currently improving my coding skills and gaming as well 😅
 - 💬 Ask me about Web Development and Competitive Coding
 - 🏛️ 2022 CSE Student at IIIT Ranchi :india:
-- 🥅 2021 Goals: Make real world impacts.
+- 🥅 2022 Goals: More on enjoying life.
 
 ## :pencil2: My Works: :trophy:
 
