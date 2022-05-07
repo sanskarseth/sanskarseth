@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Sanskar Seth
 
-- 🔭 I’m currently working on projects: @ShoppeR and @GetiT
+- 🔭 I’m currently working at @Infoedge as a Software Engineer Intern
 - 🌱 I’m currently improving my coding skills and gaming as well 😅
 - 💬 Ask me about Web Development and Competitive Coding
 - 🏛️ 2022 CSE Student at IIIT Ranchi :india:
-- 🥅 2022 Goals: More on enjoying life.
+- 🥅 2022 Goals: More on enjoying life
 
 ## :pencil2: My Works: :trophy:
 
