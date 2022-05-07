@@ -9,8 +9,8 @@
 ## :pencil2: My Works: :trophy:
 
 - [GetiT 📱](https://github.com/sanskarseth/GetiT-Client)
-- [ShoppeR 💻](http://dshopper.netlify.app/)
-- [Portfolio 💻](http://sanskarseth.me/)
+- [ShoppeR 💻](https://iiitrshops.netlify.app/)
+- [Portfolio 💻](https://sanskarseth.netlify.app/)
 - [CricPing 💻](https://github.com/sanskarseth/CricPing)
 
 ## :trophy: Languages and Tools: :robot:
