@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sanskar Seth
 
-- 🔭 I’m currently working at @Infoedge as a Software Engineer Intern
+- 🔭 I’m currently working at [Infoedge](http://www.infoedge.in/) as a Software Engineer Intern
 - 🌱 I’m currently improving my coding skills and gaming as well 😅
 - 💬 Ask me about Web Development and Competitive Coding
 - 🏛️ 2022 CSE Student at IIIT Ranchi :india:
