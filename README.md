@@ -15,16 +15,16 @@
 
 ## :trophy: Languages and Tools: :robot:
 
-<img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=python&acol=gold" width="50px">
+<img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=react&acol=gold" width="50px"> <img src="https://icon.vimalverma.inm/img?tool=node&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=mongodb&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=firebase&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=python&acol=gold" width="50px">
 
-<img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=ubuntu&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=netlify&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=heroku&acol=gold" width="50px">
+<img src="https://icon.vimalverma.in/img?tool=git&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=github&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=ubuntu&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=netlify&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=heroku&acol=gold" width="50px">
 
 ## :mailbox: Get in touch: 💬
 
-[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/sanskarseth/)
-[<img src="https://logo.letskhabar.com/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/__sanSkar__)
-[<img src="https://logo.letskhabar.com/img?tool=mail&acol=gold" width="30px">](mailto:sanskar.iiitr@gmail.com)
-[<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="30px">](https://sanskarseth.me)
+[<img src="https://icon.vimalverma.in/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/sanskarseth/)
+[<img src="https://icon.vimalverma.in/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/__sanSkar__)
+[<img src="https://icon.vimalverma.in/img?tool=mail&acol=gold" width="30px">](mailto:sanskar.iiitr@gmail.com)
+[<img src="https://icon.vimalverma.in/img?tool=globe&acol=gold" width="30px">](https://sanskarseth.me)
 <br>
 <br>
 
