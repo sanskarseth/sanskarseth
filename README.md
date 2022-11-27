@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Sanskar Seth
 
-- 🔭 I’m currently working at [Naukri](https://www.naukri.com/) ([Infoedge](http://www.infoedge.in/)) as a Software Engineer Intern
+- 🖥️ I’m currently working at [Adobe](https://www.adobe.com/) as a Software Engineer
+- 🔭 Previously, I worked with [Naukri](https://www.naukri.com/) ([Infoedge](http://www.infoedge.in/)) as a Software Engineer Intern
 - 🌱 I’m currently improving my coding skills and gaming as well 😅
 - 💬 Ask me about Web Development and Competitive Coding
 - 🏛️ 2022 CSE Student at IIIT Ranchi :india:
